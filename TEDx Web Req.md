@@ -24,3 +24,5 @@ Your site must have an "About" page that includes the “About TED/About TEDx”
 Sponsor or partner logos or names may not appear on your site's homepage.
 Instead, create a separate page dedicated to your sponsors, and link to the page from your site's global navigation bar.
 Anywhere it appears, the sponsor's logo must be smaller than your TEDx event's logo.
+
+Note: we need to find domain fast
