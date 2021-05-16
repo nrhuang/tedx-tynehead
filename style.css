@@ -13,6 +13,7 @@ p {
 h2, h3 {
   padding-top: 10px;
   padding-bottom: 10px;
+  color: #e62b1e;
 }
 
 .nav a {
@@ -38,4 +39,16 @@ h2, h3 {
   background-color: lightblue;
   text-align: center;
 }
+
+.button {
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 /* make it prettyyyyyyy */
