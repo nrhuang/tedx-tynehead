@@ -2,6 +2,12 @@
   background: black;
   color: white;
   font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+p {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .nav a {
@@ -10,6 +16,16 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  color: white;
+}
+
+.nav a:hover {
+  color: #e62b1e;
+}
+
+.logo {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .bigpictureoftheTianMing {
