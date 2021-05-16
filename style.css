@@ -52,3 +52,11 @@ h2, h3 {
 }
 
 /* make it prettyyyyyyy */
+
+.konami {
+  content: url("https://i.kym-cdn.com/entries/icons/original/000/034/772/Untitled-1.png");
+  position: fixed;
+  width: 844px;
+  height: 475px;
+  z-index: 1000;
+}
