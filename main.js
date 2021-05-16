@@ -2,6 +2,7 @@
 //what kind of animations?
 //dropdowns and maybe something that happens when the user scrolls down
 
+// do not mind what i did down there there might be a cat on the website
 var secret = "3838404037393739666513"; //Konami Codeeeeee
 var input = "";
 var timer;
