@@ -5,9 +5,14 @@
   text-align: center;
 }
 
+body {
+  background-color: black;
+}
+
 p {
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 10px;
 }
 
 h2, h3 {
@@ -34,10 +39,25 @@ h2, h3 {
   margin-right: auto;
 }
 
+.nelli {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 20px;
+}
+
 .bigpictureoftheTianMing {
   border: 5px outset red;
   background-color: lightblue;
   text-align: center;
+}
+
+.nico img {
+  width: 25%;
+  border-radius: 8px;
+}
+
+figcaption {
+  padding-bottom: 15px;
 }
 
 .button {
