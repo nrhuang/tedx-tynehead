@@ -71,6 +71,11 @@ figcaption {
   font-size: 16px;
 }
 
+.speakerimg {
+  border-radius: 8px;
+  width: 25%;
+}
+
 /* make it prettyyyyyyy */
 
 * {box-sizing:border-box}
@@ -131,7 +136,7 @@ figcaption {
 }
 
 /* The dots/bullets/indicators */
-.dot {
+/*.dot {
   cursor: pointer;
   height: 15px;
   width: 15px;
@@ -145,12 +150,13 @@ figcaption {
 .active, .dot:hover {
   background-color: #717171;
 }
+*/
 
 /* Fading animation */
 
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
+  -webkit-animation-duration: 1s;
   animation-name: fade;
   animation-duration: 1.5s;
 }
@@ -163,15 +169,4 @@ figcaption {
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
-}
-
-
-/*divider*/
-
-.konami {
-  content: url("https://i.kym-cdn.com/entries/icons/original/000/034/772/Untitled-1.png");
-  position: fixed;
-  width: 844px;
-  height: 475px;
-  z-index: 1000;
 }
