@@ -25,7 +25,7 @@ footer {
 }
 
 .content {
-  padding: 50px;
+  padding: 50px 100px;
   background-color: black;
   color: white;
   font-size:; 
@@ -54,6 +54,10 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
   height: 57vw;
+}
+
+.col-md-4.speakerbox {
+  padding: 20px 30px;
 }
 
 hr {
