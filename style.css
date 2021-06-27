@@ -3,20 +3,7 @@
 }
 
 body {
-  /*hmm figure out how to make everything black later*/
-  background-color: black;
-}
-/* comment out for now
-p {
-  padding-left: 150px;
-  padding-right: 150px;
-  padding-bottom: 10px;
-}*/
-
-h2, h3 {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  color: #e62b1e;
+  background-color: black !important;
 }
 
 .nav {
@@ -24,20 +11,62 @@ h2, h3 {
 }
 
 .nav a {
+  text-align: center;
+}
+
+footer {
+  position: relative;
+  width: 100%;
+  padding: 0 50px 50px 50px;
+  background-color: black;
   color: white;
   text-align: center;
+  font-size: 12px;
 }
 
-.nelli {
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-bottom: 20px;
+.content {
+  padding: 50px;
+  background-color: black;
+  color: white;
+  font-size:; 
 }
 
-.bigpictureoftheTianMing {
-  border: 5px outset red;
-  background-color: lightblue;
-  text-align: center;
+.content p {
+  margin: 20px 0;
+}
+
+.content p a {
+  color: white;
+  text-decoration: underline;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+#tedxLink {
+  color: #e62b1e;
+}
+
+.poster {
+  background-image: url(photos/tedxposter.png);
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 57vw;
+}
+
+hr {
+  border: 0;
+  clear: both;
+  display: block;
+  background-color: white;
+  height: 1px;
+}
+
+.speakerimg {
+  border-radius: 8px;
+  width: 100%;
 }
 
 .nico img {
@@ -62,7 +91,7 @@ figcaption {
 
 .speakerimg {
   border-radius: 8px;
-  width: 25%;
+  width: 100%;
 }
 
 /* make it prettyyyyyyy */
