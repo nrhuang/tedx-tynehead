@@ -72,6 +72,14 @@ hr {
   border-radius: 8px;
   width: 100%;
 }
+/* can't figure out how to centre it when the screen is larger than the img
+.carousel-item {
+  max-width: 1100px;
+}
+*/
+.teamCarousel {
+  margin: auto;
+}
 
 .nico img {
   width: 25%;
