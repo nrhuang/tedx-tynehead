@@ -32,6 +32,10 @@ footer {
   font-size:; 
 }
 
+#aboutPage {
+  text-align: center;
+}
+
 .content p {
   margin: 20px 0;
 }
