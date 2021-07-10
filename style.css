@@ -45,7 +45,11 @@ footer {
   font-weight: bold;
 }
 
-#tedxLink {
+.tedxLink {
+  color: #e62b1e;
+}
+
+.tedxLink:hover {
   color: #e62b1e;
 }
 
