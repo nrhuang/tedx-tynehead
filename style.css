@@ -64,6 +64,14 @@ footer div {
   color: #e62b1e;
 }
 
+.btn-danger {
+  background-color: #e62b1e !important;
+}
+
+.btn-danger:hover {
+  background-color: #f62b1e !important;
+}
+
 #aboutPage {
   text-align: center;
 }
