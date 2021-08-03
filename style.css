@@ -54,6 +54,8 @@ footer div {
   background-size: cover;
   background-repeat: no-repeat;
   height: 57vw;
+  max-width: 1306px;
+  max-height: 754px;
 }
 
 .tedxLink {
