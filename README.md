@@ -1,4 +1,3 @@
 # tedx-tynehead
-# all errors are Tian Ming's fault
+# all errors are Nick's fault
 # ^ oui oui
-# ey yo bullies!
